@@ -1,0 +1,42 @@
+@charset "UTF-8";
+#header {
+}
+#nav {
+    color: rgba(237,0,255,1.00);
+}
+#home {
+}
+#para {
+}
+#list {
+}
+#header {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    color: rgba(162,0,255,1.00);
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: bold;
+    text-align: center;
+    -webkit-box-shadow: 0px 0px rgba(0,76,255,1.00);
+    box-shadow: 0px 0px rgba(0,76,255,1.00);
+}
+#nav {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: italic;
+    color: rgba(164,9,255,1.00);
+    font-variant: small-caps;
+    font-weight: bold;
+}
+body p {
+    color: rgba(162,1,255,1.00);
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+body {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(235,107,255,1.00) 16.44%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(235,107,255,1.00) 16.44%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(235,107,255,1.00) 16.44%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(235,107,255,1.00) 16.44%,rgba(255,0,0,1.00) 100%);
+}
